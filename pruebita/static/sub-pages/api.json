@@ -1,0 +1,56 @@
+  [
+    {
+      "precio": 15000,
+      "id": 1,
+      "title": "macetero 1",
+      "thumbnailUrl": "../img/macetero_1.webp"
+    },
+    {
+      "precio": 20000,
+      "id": 2,
+      "title": "macetero 2",
+      "thumbnailUrl": "../img/macetero_2.webp"
+    },
+    {
+      "precio": 10000,
+      "id": 3,
+      "title": "macetero 3",
+      "thumbnailUrl": "../img/macetero_3.webp"
+    },
+    {
+      "precio": 9000,
+      "id": 4,
+      "title": "flor 1",
+      "thumbnailUrl": "../img/flor1.webp"
+    },
+    {
+      "precio": 7500,
+      "id": 5,
+      "title": "flor 2 ",
+      "thumbnailUrl": "../img/flor2.webp"
+    },
+    {
+      "precio": 10000,
+      "id": 6,
+      "title": "flor 3 ",
+      "thumbnailUrl": "../img/flor3.webp"
+    },
+    {
+      "precio": 5000,
+      "id": 7,
+      "title": "planta 1",
+      "thumbnailUrl": "../img/planta_1.webp"
+    },
+    {
+      "precio": 4500,
+      "id": 8,
+      "title": "planta 2",
+      "thumbnailUrl": "../img/planta_2.webp"
+    },
+    {
+      "precio": 5000,
+      "id": 9,
+      "title": "planta 3",
+      "thumbnailUrl": "../img/planta_3.webp"
+    }
+  ]
